@@ -48,16 +48,6 @@ This project demonstrates the fine-tuning of a pretrained Convolutional Neural N
 - **Confusion Matrix**: Computed using 'sklearn.metrics.confusion_matrix'
 - **Classification Report**: Includes precision, recall, and F1-score using 'classification_report'
 
-## Directory Structure
-
-Task-1-Age-Detection/
-├── age-detection-model.ipynb
-├── requirements.txt
-├── saved_model/
-│ └── age_model.pth
-├── README.md
-
-
 ## Model Access
 
 Use the link below:
