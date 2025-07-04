@@ -63,10 +63,10 @@ pip install -r requirements.txt
 3. Open age-detection-model.ipynb in Jupyter Notebook or Colab.
 
 4. Run the notebook to:
-  - Load and preprocess the dataset
-  - Train and validate the model
-  - Evaluate metrics
-  - Save model weights
+   - Load and preprocess the dataset
+   - Train and validate the model
+   - Evaluate metrics
+   - Save model weights
 
 ## Requirements
 The Python libraries used in this project are listed in requirements.txt.
